@@ -21,8 +21,8 @@ To make it easy to view the core work, the repository is structured as follows:
 ---
 
 ## Documentation & Presentation
-* [Project Book (PDF)](docs/link_to_your_project_book.pdf)
-* [Final Presentation (PPTX)](docs/link_to_your_presentation.pdf)
+* [Project Book (PDF)](added to files)
+* [Final Presentation (PPTX)](added to files)
 
 ---
 
